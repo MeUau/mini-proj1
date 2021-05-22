@@ -1,17 +1,14 @@
 {
-  "name": "proj1",
+  "name": "mini-proj1",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "start node app.js"
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "express": "^4.17.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {
@@ -41,18 +38,5 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ],
-  "description": "![image](https://user-images.githubusercontent.com/80478480/115155895-ca45ef80-a079-11eb-9a4f-05ee875fbd9c.png)",
-  "main": "babel.config.js",
-  "main": "app.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MeUau/proj1.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MeUau/proj1/issues"
-  },
-  "homepage": "https://github.com/MeUau/proj1#readme"
+  ]
 }
